@@ -9,9 +9,13 @@ To write a program to predict the marks scored by a student using the simple lin
 
 ## Algorithm
 1. Load the dataset into a DataFrame and explore its contents to understand the data structure.
+   
 2.Separate the dataset into independent (X) and dependent (Y) variables, and split them into training and testing sets.
+
 3.Create a linear regression model and fit it using the training data.
+
 4.Predict the results for the testing set and plot the training and testing sets with fitted lines.
+
 5.Calculate error metrics (MSE, MAE, RMSE) to evaluate the model’s performance.
 
 ## Program:
